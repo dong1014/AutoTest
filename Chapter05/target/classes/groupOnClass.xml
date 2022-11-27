@@ -8,8 +8,8 @@
             </run>
         </groups>
         <classes>
-            <class name = "com.zdong.groups.GroupOnClass1"/>
-            <class name = "com.zdong.groups.GroupOnclass2"/>
+            <class name = "com.course.testNG.groups.GroupOnClass1"/>
+            <class name = "com.course.testNG.groups.GroupOnclass2"/>
         </classes>
     </test>
 </suite>

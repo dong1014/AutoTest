@@ -2,14 +2,14 @@
 <suite name = "test">
     <test name = "Login">
         <classes>
-            <class name = "com.zdong.suite.SuiteConfig"/>
-            <class name = "com.zdong.suite.LoginTest"/>
+            <class name = "com.course.testNG.suite.SuiteConfig"/>
+            <class name = "com.course.testNG.suite.LoginTest"/>
         </classes>>
     </test>>
     <test name = "Pay">
         <classes>
-            <class name = "com.zdong.suite.SuiteConfig"/>
-            <class name = "com.zdong.suite.PayTest"/>
+            <class name = "com.course.testNG.suite.SuiteConfig"/>
+            <class name = "com.course.testNG.suite.PayTest"/>
         </classes>>
     </test>>
 </suite>
