@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <artifactId>Chapter</artifactId>
-    <groupId>com.course.testNg</groupId>
+    <artifactId>AutoTest</artifactId>
+    <groupId>com.course</groupId>
     <version>1.0</version>
   </parent>
 
